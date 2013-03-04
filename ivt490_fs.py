@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Released under the MIT license, http://per.mit-license.org/2012
+
 import time, errno, threading, stat, os
 import serial, copy, traceback
 
