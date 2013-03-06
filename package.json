@@ -1,0 +1,9 @@
+{
+  "name": "senserve",
+  "version": "0.0.1",
+  "author": "Per Rovegard <per@rovegard.se>",
+  "dependencies": {
+    "serialport": "1.0.x"
+  },
+  "license": "MIT"
+}
